@@ -1,0 +1,244 @@
+{
+    "The_Loved_Child": {
+        "name": "Toya Todoroki",
+        "history": [
+            {
+                "role": "user",
+                "content": "/schedule"
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "user",
+                "content": "/rsvp"
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "user",
+                "content": "/status"
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "assistant",
+                "content": "Welcome to Confluence '26! I'm your AI Event & Community Coordinator. I'm here to help you with any questions about the event, manage your RSVPs, and provide assistance.\n\nWhat can I help you with today?"
+            },
+            {
+                "role": "user",
+                "content": "/rsvp"
+            },
+            {
+                "role": "assistant",
+                "content": "Great! I can help you with the RSVP process for Confluence '26.\n\nTo get started, please tell me the **full name** you'd like to use for your registration."
+            },
+            {
+                "role": "user",
+                "content": "Adya Archita Pattnaik"
+            },
+            {
+                "role": "assistant",
+                "content": "Thanks, Adya Archita Pattnaik!\n\nNext, could you please provide your **email address**? This is where we'll send your confirmation and event updates."
+            },
+            {
+                "role": "user",
+                "content": "adyaarchitapattnaik@gmail.com"
+            },
+            {
+                "role": "assistant",
+                "content": "Got it! Your name is Adya Archita Pattnaik and your email is adyaarchitapattnaik@gmail.com.\n\nBefore I confirm your RSVP, could you please review these details and **confirm if they are correct**?"
+            },
+            {
+                "role": "user",
+                "content": "Yes"
+            },
+            {
+                "role": "assistant",
+                "content": "Excellent! Your RSVP for Confluence '26 has been successfully recorded under the name Adya Archita Pattnaik with the email adyaarchitapattnaik@gmail.com.\n\nWe're looking forward to seeing you at the Moscone Center in San Francisco from August 10-12, 2026!\n\nIs there anything else I can help you with regarding Confluence '26? [ACTION: SAVE_RSVP]"
+            },
+            {
+                "role": "user",
+                "content": "/status"
+            },
+            {
+                "role": "assistant",
+                "content": "It looks like you've successfully RSVP'd for Confluence '26 under the name Adya Archita Pattnaik with the email adyaarchitapattnaik@gmail.com.\n\nIs there anything else you'd like to know about your registration or the event?"
+            },
+            {
+                "role": "user",
+                "content": "What's the event about?"
+            },
+            {
+                "role": "assistant",
+                "content": "Confluence '26 is an event taking place at the Moscone Center in San Francisco from August 10-12, 2026. While the specific theme isn't detailed in my knowledge base, events with \"Confluence\" in their name often involve bringing together different ideas, people, or technologies.\n\nThe schedule includes a kickoff at 10 AM PST and judging at 3 PM PST on the final day. Teams can consist of 1-4 people, and it's recommended to wear comfortable shoes!\n\nIs there anything else I can clarify about Confluence '26?"
+            },
+            {
+                "role": "user",
+                "content": "/schedule"
+            },
+            {
+                "role": "assistant",
+                "content": "The schedule for Confluence '26 is as follows:\n\n*   **Dates:** August 10-12, 2026\n*   **Kickoff:** 10 AM PST on August 10th\n*   **Judging:** 3 PM PST on the final day, August 12th\n\nThe event will be held at the Moscone Center in San Francisco.\n\nDo you have any other questions about the schedule or the event in general?"
+            },
+            {
+                "role": "user",
+                "content": "/faq"
+            },
+            {
+                "role": "assistant",
+                "content": "Here are some frequently asked questions and their answers for Confluence '26:\n\n*   **When and where is the event?** Confluence '26 will be held from August 10-12, 2026, at the Moscone Center in San Francisco.\n*   **What time does it start and end?** The event kicks off at 10 AM PST. Judging takes place at 3 PM PST on the final day.\n*   **How do I get there?** The Moscone Center is accessible via BART (Powell St Station). Validated parking will also be available.\n*   **What should I wear?** Wear comfortable shoes!\n*   **How large can teams be?** Teams can consist of 1-4 people.\n*   **Who can I contact for more information?** You can reach out to team@confluence.ai.\n\nIf you have any other questions, feel free to ask!"
+            },
+            {
+                "role": "user",
+                "content": "/help"
+            },
+            {
+                "role": "assistant",
+                "content": "It seems you're asking for help. I'm here to assist you with any questions about Confluence '26, including details about the schedule, venue, transit, or registration.\n\nCould you please tell me what you need help with?\n[ACTION: ESCALATE]"
+            },
+            {
+                "role": "user",
+                "content": "Venue"
+            },
+            {
+                "role": "assistant",
+                "content": "Confluence '26 will be held at the **Moscone Center** in **San Francisco**.\n\nDo you need directions or information about getting to the venue?"
+            },
+            {
+                "role": "user",
+                "content": "Yes"
+            },
+            {
+                "role": "assistant",
+                "content": "Great! The Moscone Center is easily accessible via **BART**. The closest station is **Powell St Station**.\n\nAdditionally, there will be **validated parking available** at the venue for those who choose to drive."
+            },
+            {
+                "role": "user",
+                "content": "/start"
+            },
+            {
+                "role": "assistant",
+                "content": "Hello! Welcome to Confluence '26. I'm your AI Event & Community Coordinator, here to help you with everything you need for the event.\n\nTo get started, what can I assist you with today? Are you looking to register, find out more about the schedule, or do you have another question?"
+            },
+            {
+                "role": "user",
+                "content": "/rsvp"
+            },
+            {
+                "role": "assistant",
+                "content": "Great! I can help you with the RSVP process for Confluence '26.\n\nTo confirm your registration, please provide me with the following details:\n1. Your full name:\n2. Your email address:\n3. (Optional) Your team name (if you have one):\n4. (Optional) Your team members' names (if applicable, up to 3 more):\n\nOnce I have this information, I can finalize your RSVP."
+            },
+            {
+                "role": "user",
+                "content": "/status"
+            },
+            {
+                "role": "assistant",
+                "content": "It seems you're asking for help. I'm here to assist you with any questions about Confluence '26, including details about the schedule, venue, transit, or registration.\n\nCould you please tell me what you need help with?\n[ACTION: ESCALATE]"
+            },
+            {
+                "role": "user",
+                "content": "/schedule"
+            },
+            {
+                "role": "assistant",
+                "content": "Confluence '26 kicks off at **10 AM PST** on August 10th. Judging will commence at **3 PM PST** on the final day, August 12th."
+            },
+            {
+                "role": "user",
+                "content": "/help"
+            },
+            {
+                "role": "assistant",
+                "content": "It looks like you're asking for help. I can assist you with a variety of topics regarding Confluence '26!\n\nHere are some common things I can help with:\n*   **Event Schedule:** What time does it start? When is judging?\n*   **Venue Details:** Where is it located?\n*   **Transit/Directions:** How do I get there? Is there parking?\n*   **Registration/RSVP:** How do I sign up? What information do you need?\n*   **General FAQs:** Do I need comfortable shoes? How many people can be on a team?\n\nWhat specifically can I help you with today? If I can't answer your question, I can escalate it to a human organizer."
+            },
+            {
+                "role": "user",
+                "content": "/faq"
+            },
+            {
+                "role": "assistant",
+                "content": "Here are some frequently asked questions for Confluence '26:\n\n*   **What should I wear?** Wear comfortable shoes! You'll be on your feet.\n*   **How big can teams be?** Teams can consist of 1-4 people.\n\nDo you have any other specific questions?"
+            }
+        ],
+        "rsvp": {
+            "status": "confirmed"
+        },
+        "escalated": true,
+        "registered_at": "2026-08-08T12:52:54.689187",
+        "channel": "telegram",
+        "last_conversation_id": "conv_5b2ff4d76d9ba09798138ac4"
+    },
+    "adyaarchitapattnaik@gmail.com": {
+        "name": "Adya Archita Pattnaik",
+        "history": [
+            {
+                "role": "user",
+                "content": "Whats the event\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "Confluence '26 is an exciting event happening from August 10-12, 2026, at the Moscone Center in San Francisco!"
+            },
+            {
+                "role": "user",
+                "content": "This looks interesting.\r\n\r\nOn Tue, 11 Aug, 2026, 1:18 am , <confluence-desk@agents.trycaspianai.com>\r\nwrote:\r\n\r\n> Confluence '26 is an exciting event happening from August 10-12, 2026, at\r\n> the Moscone Center in San Francisco!\r\n>\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "You're right, it is! Confluence '26 promises to be a fantastic event.\n\nThe schedule kicks off at 10 AM PST each day, and judging for the event will be at 3 PM PST on the final day.\n\nIf you have any other questions about the schedule, venue, or anything else, just let me know!"
+            },
+            {
+                "role": "user",
+                "content": "Awesome, thanks for the info! May I know the directions?\r\n\r\nOn Tue, 11 Aug, 2026, 1:19 am , <confluence-desk@agents.trycaspianai.com>\r\nwrote:\r\n\r\n> You're right, it is! Confluence '26 promises to be a fantastic event.\r\n>\r\n> The schedule kicks off at 10 AM PST each day, and judging for the event\r\n> will be at 3 PM PST on the final day.\r\n>\r\n> If you have any other questions about the schedule, venue, or anything\r\n> else, just let me know!\r\n>\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "You're welcome!\n\nThe Moscone Center in San Francisco is easily accessible. You can get there via BART (Bay Area Rapid Transit) by getting off at the Powell Street Station. If you're driving, validated parking will also be available.\n\nLet me know if you need any more details!"
+            },
+            {
+                "role": "user",
+                "content": "Awesome, thank you so much!\r\n\r\nOn Tue, 11 Aug, 2026, 1:43 am , <confluence-desk@agents.trycaspianai.com>\r\nwrote:\r\n\r\n> You're welcome!\r\n>\r\n> The Moscone Center in San Francisco is easily accessible. You can get\r\n> there via BART (Bay Area Rapid Transit) by getting off at the Powell Street\r\n> Station. If you're driving, validated parking will also be available.\r\n>\r\n> Let me know if you need any more details!\r\n>\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "You're very welcome! Is there anything else I can assist you with regarding Confluence '26? I'm here to help with any further questions you might have."
+            },
+            {
+                "role": "user",
+                "content": "Hi. What's confluence about?\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "Confluence '26 is an event held at the Moscone Center in San Francisco from August 10-12, 2026. The schedule kicks off at 10 AM PST, with judging at 3 PM PST on the final day. While the knowledge base doesn't specify the exact *type* of event (e.g., conference, hackathon, summit), it's set up for teams of 1-4 people and suggests wearing comfortable shoes, implying an active and engaging experience!\n\nIf you'd like to know more about registration, transit, or anything else, just ask!"
+            },
+            {
+                "role": "user",
+                "content": "Schedule?\r\n\r\nOn Sun, Aug 16, 2026 at 11:38\u202fPM <confluence-desk@agents.trycaspianai.com>\r\nwrote:\r\n\r\n> Confluence '26 is an event held at the Moscone Center in San Francisco\r\n> from August 10-12, 2026. The schedule kicks off at 10 AM PST, with judging\r\n> at 3 PM PST on the final day. While the knowledge base doesn't specify the\r\n> exact *type* of event (e.g., conference, hackathon, summit), it's set up\r\n> for teams of 1-4 people and suggests wearing comfortable shoes, implying an\r\n> active and engaging experience!\r\n>\r\n> If you'd like to know more about registration, transit, or anything else,\r\n> just ask!\r\n>\r\n"
+            },
+            {
+                "role": "assistant",
+                "content": "Hi there!\n\nThe general schedule for Confluence '26 is as follows:\n\n*   **Dates:** August 10-12, 2026\n*   **Daily Start Time:** Kickoff is at 10 AM PST each day.\n*   **Event Conclusion:** Judging will take place at 3 PM PST on the final day, August 12th.\n\nFor a more detailed breakdown (if available), you might want to keep an eye on the official Confluence '26 website or future announcements.\n\nLet me know if you have any other questions!"
+            }
+        ],
+        "rsvp": {},
+        "escalated": false,
+        "registered_at": "2026-08-11T01:18:45.717313",
+        "channel": "email",
+        "last_conversation_id": "conv_d73d50ffb5aface34ab4c79e"
+    }
+}
